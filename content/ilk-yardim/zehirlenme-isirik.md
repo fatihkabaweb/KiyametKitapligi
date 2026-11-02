@@ -58,7 +58,7 @@ Türkiye'deki zehirli yılanların büyük çoğunluğu **engerek** türleridir.
 6. En kısa sürede **panzehir (antiserum)** bulunan bir hastaneye ulaştırın. Mümkünse kişiyi taşıyın, yürütmeyin.
 
 > [!TEHLIKE] Yılan ısırığında yapmayın
-> Isırık yerini **kesmeyin, ağızla emmeyin,** turnike veya sıkı bağ uygulamayın, buz koymayın, alkol vermeyin, yakmayın, elektrik vermeyin. Bunların hiçbiri işe yaramaz, hepsi zarar verir.
+> Isırık yerini **kesmeyin, ağızla emmeyin,** turnike, basınçlı sargı veya sıkı bağ uygulamayın, buz veya sıcak uygulamayın, alkol vermeyin, yakmayın, elektrik vermeyin. Bunların hiçbiri işe yaramaz, hepsi zarar verir. (Bazı yabancı kaynaklarda önerilen basınçlı sargı, Avustralya'daki yılanlar içindir; Türkiye'deki engereklerde doku hasarını artırabilir.)
 
 ## Akrep Sokması
 
@@ -126,7 +126,7 @@ Türkiye'de bulunan **karadul** örümceğinin ısırığı; birkaç saat içind
 - Zehir danışma: **114.** Hayati tehlikede **112.**
 - Yakıcı madde ve petrol ürünü yutanı kusturmayın; süt içirmeyin.
 - Geç belirti veren mantar zehirlenmesi ölümcüldür; aynı yemekten yiyen herkes hastaneye.
-- Yılan ısırığında kesme, emme, turnike yok; hareketsiz tutun ve hastaneye ulaştırın.
+- Yılan ısırığında kesme, emme, turnike veya sıkı sargı yok; hareketsiz tutun ve hastaneye ulaştırın.
 - Keneyi cımbızla deriye yakın tutup dik çekin; 2 hafta ateşe karşı izleyin.
 - Hayvan ısırığında 15 dakika sabunlu suyla yıkayın ve aynı gün kuduz aşısı için başvurun.
 

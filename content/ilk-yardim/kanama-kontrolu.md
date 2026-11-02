@@ -45,7 +45,7 @@ Kasık, koltuk altı, boyun ve kalça gibi turnike takılamayan bölgelerdeki de
 4. Bezi yerinde bırakın ve sıkıca sarın.
 
 > [!UYARI]
-> Göğüs ve karın boşluğuna açılan yaraları tamponlamayın. Göğüs yarasını, yalnızca kenarlarından üç tarafı yapıştırılmış bir naylon parçasıyla kapatın; karın yarasının üzerini nemli temiz bezle örtün. Organlar dışarı çıkmışsa içeri itmeyin.
+> Göğüs ve karın boşluğuna açılan yaraları tamponlamayın. Göğüs yarasını naylon, bant veya sıkı sargıyla **hava geçirmeyecek şekilde kapatmayın**; göğüs içinde hava birikip ölümcül nefes darlığına yol açabilir. Yarayı açık bırakın, kanıyorsa temiz bir bezle yalnızca üzerine bastırın ve nefes darlığı artarsa bezi kaldırın. Karın yarasının üzerini nemli temiz bezle örtün. Organlar dışarı çıkmışsa içeri itmeyin.
 
 ## Adım 3: Turnike
 

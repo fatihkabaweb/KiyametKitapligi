@@ -32,7 +32,7 @@ Bilinci kapalı + normal nefes almıyor:
 1. **112** (hoparlörde), varsa **OED** getirt.
 2. Göğsün ortasına, kollar düz, **5–6 cm** derin, dakikada **100–120** bası.
 3. **30 bası : 2 soluk.** Soluk veremiyorsan yalnızca bası, durmadan.
-4. Çocuk ve bebekte önce **5 kurtarıcı soluk.** Bebekte iki parmak, yaklaşık 4 cm.
+4. Çocuk ve bebekte önce **5 kurtarıcı soluk.** Bebekte göğsü kavrayıp iki başparmakla, yaklaşık 4 cm.
 
 [[temel-yasam-destegi]]
 
@@ -108,7 +108,7 @@ Baş ağrısı, baş dönmesi, bulantı, uyku hali **birden fazla kişide** ayn�
 ## Isırık ve Zehirlenme
 
 - **Zehir yutma:** kusturma, süt içirme; **114.**
-- **Yılan:** hareketsiz tut, kesme, emme, turnike yok; hastaneye.
+- **Yılan:** hareketsiz tut, kesme, emme, turnike veya sıkı sargı yok; hastaneye.
 - **Kene:** cımbızla deriye yakın tut, **dik çek;** 2 hafta ateş izle.
 - **Hayvan ısırığı:** **15 dakika sabunlu suyla** yıka; aynı gün kuduz aşısı.
 

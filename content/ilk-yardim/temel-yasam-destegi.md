@@ -66,7 +66,7 @@ Bir kişi masaj yaparken diğeri OED'yi hazırlamalıdır; masaja verilen aralar
 |---|---|---|
 | Başlangıç | Önce **5 kurtarıcı soluk** | Önce **5 kurtarıcı soluk** |
 | Bası yeri | Göğüs kemiğinin alt yarısı | Göğüs kemiğinin alt yarısı, meme uçları hizasının hemen altı |
-| Bası şekli | Tek el veya iki el | İki parmak (ya da iki başparmakla göğsü kavrayarak) |
+| Bası şekli | Tek el veya iki el | İki elle göğsü kavrayıp **iki başparmakla** (elleriniz saramıyorsa tek elin topuğuyla) |
 | Bası derinliği | Göğsün üçte biri, yaklaşık **5 cm** | Göğsün üçte biri, yaklaşık **4 cm** |
 | Hız | Dakikada 100–120 | Dakikada 100–120 |
 | Oran | 30 bası : 2 soluk | 30 bası : 2 soluk |
@@ -75,7 +75,8 @@ Bir kişi masaj yaparken diğeri OED'yi hazırlamalıdır; masaja verilen aralar
 
 - Çocuğa ve bebeğe soluğu, göğsün kalkmasına yetecek kadar **yumuşak** verin.
 - Yalnızsanız ve telefonunuz yoksa, yardım çağırmaya gitmeden önce **1 dakika** temel yaşam desteği uygulayın.
-- Sağlık personeli çocuklarda 15:2 oranı kullanır; eğitimsiz biri için 30:2 doğru ve yeterlidir.
+- Çocuk temel yaşam desteği eğitimi almış kişiler ve sağlık personeli çocuklarda 15:2 oranını kullanır; bu eğitimi almamış biri için 5 kurtarıcı soluktan sonra 30:2 doğru ve yeterlidir.
+- Eski kaynaklarda bebeğe iki parmakla basılması önerilir; güncel kılavuzlar (ERC ve AHA 2025) yeterli derinlik sağladığı için iki başparmak yöntemini önerir.
 
 > [!NOT] Suda boğulma
 > Suda boğulan kişide de solunum öncelikli olduğundan, yaşı ne olursa olsun önce **5 kurtarıcı soluk** verin, ardından 30:2 ile devam edin.
@@ -92,7 +93,7 @@ Kalp masajını şu durumlarda bırakın:
 Birden fazla kişi varsa **her 2 dakikada bir** masaj yapanı değiştirin; yorgun biri etkili basamaz.
 
 > [!NOT] Tıbbi yardımın hiç gelemeyeceği durumlar
-> Uzak bir yerde veya büyük bir felakette, ileri tıbbi yardım ulaşamıyorsa ve yaklaşık **30 dakika** boyunca kesintisiz temel yaşam desteğine rağmen hiçbir yaşam belirtisi dönmüyorsa, hayata dönme olasılığı çok düşüktür. Bu durumda durma kararı size aittir; elinizden geleni yaptığınızı bilin. **İstisna:** Soğuk suda boğulma ve ağır hipotermide kişi uzun süre sonra bile kurtulabilir; bu kişilerde mümkün olduğunca uzun devam edin ([[hipotermi-ve-donma]]).
+> Uzak bir yerde veya büyük bir felakette, ileri tıbbi yardım ulaşamıyorsa ve yaklaşık **30 dakika** boyunca kesintisiz temel yaşam desteğine rağmen hiçbir yaşam belirtisi dönmüyorsa, hayata dönme olasılığı çok düşüktür. Bu durumda durma kararı size aittir; elinizden geleni yaptığınızı bilin. **İstisna:** Soğuk suda boğulma, ağır hipotermi, yıldırım çarpması ve zehirlenmelerde kişi uzun süre sonra bile kurtulabilir; bu kişilerde mümkün olduğunca uzun devam edin ([[hipotermi-ve-donma]]).
 
 ## Nefes Alıyorsa: Derlenme Pozisyonu
 
@@ -104,7 +105,7 @@ Bilinci kapalı ama **normal nefes alan** kişiyi yan yatırarak (derlenme veya 
 - Göğsün ortası, 5–6 cm derinlik, dakikada 100–120 bası, tam geri bırakma.
 - 30 bası : 2 soluk. Soluk veremiyorsanız yalnızca masaj yapın.
 - OED'yi en kısa sürede getirin ve sesli talimatlara uyun.
-- Çocukta ve bebekte önce 5 kurtarıcı soluk; bebeğe iki parmakla, yaklaşık 4 cm basın.
+- Çocukta ve bebekte önce 5 kurtarıcı soluk; bebekte göğsü kavrayıp iki başparmakla, yaklaşık 4 cm basın.
 - Bir ilk yardım kursuna katılın: elle pratik yapmak, okumaktan çok daha kalıcıdır.
 
 **İlgili:** [[bogulma-heimlich]], [[kanama-kontrolu]], [[bas-ve-omurga]], [[hizli-basvuru-karti]]

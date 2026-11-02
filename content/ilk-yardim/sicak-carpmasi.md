@@ -39,7 +39,7 @@ Aşırı sıcakta vücut, terleyerek kendini soğutamaz hale gelebilir. **Sıcak
 1. Kişiyi **boynuna kadar** soğuk suya (küvet, büyük leğen, su dolu çukur, branda ile yapılmış havuz, sığ dere) yerleştirin. Mümkünse suya buz ekleyin.
 2. Başını sudan yukarıda tutun; biri sürekli kişinin yanında olsun.
 3. Suyu karıştırarak sürekli hareket ettirin.
-4. Bilinci düzelene ve kişi kendine gelene kadar devam edin. Termometre varsa ısı **39 °C'ye** düşünce sudan çıkarın.
+4. Termometre varsa ısı **39 °C'ye** düşünce sudan çıkarın (en doğru ölçüm makattan yapılır). Termometre yoksa bilinci düzelene kadar, ama en fazla yaklaşık **15 dakika** suda tutun; aşırı soğuma da tehlikelidir. Gerekirse ardından ıslatıp yelleyerek soğutmayı sürdürün.
 
 ### Daldırma Mümkün Değilse
 

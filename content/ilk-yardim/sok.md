@@ -67,7 +67,7 @@ Alerji yapan maddeyle temastan **dakikalar içinde** başlar ve hızla ölüme g
 1. **112'yi hemen arayın.**
 2. Kişinin **adrenalin oto-enjektörü** (kalem şeklinde iğne) varsa hemen kullanın veya kullanmasına yardım edin: **uyluğun dış yüzüne**, gerekirse giysinin üzerinden batırın ve ambalajda yazan süre boyunca tutun.
 3. Nefes darlığı varsa **oturtun;** baş dönmesi veya bayılma varsa **yatırıp bacaklarını kaldırın.** Ani ayağa kalkmasına izin vermeyin.
-4. **5–10 dakika** içinde düzelme olmazsa ve ikinci bir enjektör varsa ikinci dozu uygulayın.
+4. İlk dozdan **5 dakika** sonra belirtiler sürüyorsa ve ikinci bir enjektör varsa ikinci dozu uygulayın.
 5. Arı iğnesi deride kaldıysa bir kart kenarıyla kazıyarak çıkarın ([[zehirlenme-isirik]]).
 6. Düzelme olsa bile kişi **mutlaka sağlık kuruluşuna** gitmelidir; belirtiler saatler sonra geri dönebilir.
 

@@ -66,8 +66,8 @@ Bebeklerde **karın baskısı yapılmaz;** iç organlara zarar verebilir.
 
 ### Beş Göğüs Baskısı
 
-1. Bebeği iki kolunuzun arasında başını destekleyerek **sırtüstü** çevirin; başı yine gövdesinden aşağıda kalsın.
-2. **İki parmağınızı** göğsün ortasına, meme uçları hizasının hemen altına koyun.
+1. Bebeği iki kolunuzun arasında başını destekleyerek **sırtüstü** çevirin ve uyluklarınızın üzerine yatırın; başı yine gövdesinden aşağıda kalsın.
+2. Göğsü iki elinizle kavrayıp **iki başparmağınızı** göğsün ortasına, meme uçları hizasının hemen altına koyun (elleriniz saramıyorsa tek elin topuğunu kullanın).
 3. **5 kez** keskin göğüs baskısı uygulayın; her biri göğsü yaklaşık üçte bir oranında çöktürsün ve kalp masajından biraz daha yavaş olsun.
 
 Cisim çıkana veya bebek bilincini kaybedene kadar 5 sırt vuruşu ve 5 göğüs baskısını tekrarlayın. Bebek yanıtsız kalırsa 112'yi arayın ve **5 kurtarıcı solukla** başlayarak bebek temel yaşam desteğine geçin.
