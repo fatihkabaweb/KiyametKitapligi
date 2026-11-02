@@ -8,7 +8,7 @@ sira: 3
 Kışın elektrik ve doğalgaz kesildiğinde ev birkaç gün içinde dış hava sıcaklığına yaklaşır. Yaşlılar, bebekler, hastalar ve yalnız yaşayanlar hipotermi açısından en büyük risk altındadır. Amaç bütün evi değil, **tek bir küçük alanı** ve en önemlisi **insanların vücudunu** sıcak tutmaktır.
 
 > [!TEHLIKE] Asla yapmayın
-> - Mangal, kömür veya barbeküyü **içeride** yakmak
+> - Mangal, kömür, barbekü veya kamp ocağını **içeride** yakmak
 > - Isınmak için **ocak veya fırını** yakıp açık bırakmak
 > - Jeneratörü ev, balkon, garaj veya merdiven boşluğunda çalıştırmak
 > - Sobayı yakıp kapısı kapalı, havası kısılmış halde **uyumak**
@@ -18,7 +18,7 @@ Kışın elektrik ve doğalgaz kesildiğinde ev birkaç gün içinde dış hava 
 ## 1. Sıcak Odayı Seçin
 
 1. Evin **en küçük**, dış duvarı ve penceresi **en az** olan odasını seçin. Mümkünse güneş alan (güneye bakan) bir oda olsun.
-2. Herkesi, gerekirse evcil hayvanları da, bu odada toplayın. Her insan yaklaşık küçük bir ısıtıcı kadar ısı üretir.
+2. Herkesi, gerekirse evcil hayvanları da, bu odada toplayın. Dinlenen her insan yaklaşık 100 watt ısı yayar (eski tip bir ampul kadar); kalabalık küçük bir oda daha sıcak kalır.
 3. Diğer odaların kapılarını kapatın; ısı kullanılmayan alanlara kaçmasın.
 4. Gece de gündüz de bu odada yaşayın.
 
@@ -39,7 +39,7 @@ Kışın elektrik ve doğalgaz kesildiğinde ev birkaç gün içinde dış hava 
 - **Hareket edin:** Kısa egzersizler (çömelip kalkma, yerinde yürüme) vücudu ısıtır; ancak terlemeyin.
 - **Düzenli yiyin ve sıcak içecek için:** Vücut ısı üretmek için enerji harcar. Yağlı ve sıcak yemekler (çorba, tarhana) önemlidir.
 - **Alkol içmeyin:** Sıcaklık hissi verir ama vücut ısısını kaybettirir.
-- **Sıcak su şişesi:** Kaynamış suyu sağlam bir termofor veya kapağı sıkı bir metal şişeye doldurun, bir beze sarın. Yatağa koyduğunuzda gece boyu ısı verir. Çocuklarda ve hislerini kaybetmiş kişilerde yanık riskine dikkat edin.
+- **Sıcak su şişesi:** Sıcak ama kaynar olmayan suyu sağlam bir termofora veya kapağı sıkı bir metal şişeye doldurun, bir beze sarın. Yatağa koyduğunuzda gece boyu ısı verir. Çocuklarda ve hislerini kaybetmiş kişilerde yanık riskine dikkat edin.
 - **Birlikte uyuyun** ve battaniyeleri üst üste değil, **altınıza da** serin.
 
 ## 4. Soba ve Isıtıcı Güvenliği

@@ -52,7 +52,7 @@ Uyuyan bir kişi belirtileri fark edemez. Bu yüzden önlem, belirtiyi beklemekt
 - Şofben ve kombiler (bacasız, bakımsız veya kapalı, havasız alana kurulmuş)
 - **Mangal ve barbekü** (içeride, çadırda veya kapalı balkonda)
 - **Jeneratör** (içeride veya pencere yanında)
-- Tüplü ısıtıcılar ve kamp ocakları (havasız ortamda)
+- Kamp ocakları (kapalı alanda) ve tüplü ısıtıcılar (havasız ortamda veya uyurken)
 - Isınmak için açık bırakılan **fırın ve ocak**
 - Kapalı garajda çalışan **araç motoru**; karla tıkanmış egzoz borusu
 - Şömineler ve tütsüleme dumanı
@@ -64,7 +64,7 @@ Uyuyan bir kişi belirtileri fark edemez. Bu yüzden önlem, belirtiyi beklemekt
 - [ ] Pil ile çalışan bir **karbonmonoksit dedektörü** edinin; yatak odalarının yakınına takın, pilini düzenli kontrol edin.
 - [ ] Baca, soba ve şofben bakımını her kış öncesi yaptırın.
 - [ ] Şofben ve kombinin bulunduğu yerin havalandırma menfezlerini kapatmayın.
-- [ ] Soba, mangal veya ocağı asla kapalı alanda ısınmak için kullanmayın.
+- [ ] Mangal, kamp ocağı, mutfak ocağı veya fırını asla kapalı alanda ısınmak için kullanmayın; sobayı yalnızca sağlam bir bacaya bağlıysa yakın.
 
 ### Soba kullanırken
 

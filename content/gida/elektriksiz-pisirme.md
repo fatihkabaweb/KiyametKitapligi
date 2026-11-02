@@ -8,14 +8,14 @@ sira: 4
 Elektrik ve doğalgaz kesildiğinde yemek pişirmek hem yakıt hem güvenlik sorunudur. Yakıt, kriz döneminde suyla birlikte en değerli kaynaklardan biridir. Bu makale, az yakıtla ve **zehirlenmeden** pişirmenin yollarını anlatır.
 
 > [!TEHLIKE] Mangal, kömür ve ocakları kapalı alana almayın
-> Mangal, kömür, barbekü, odun ateşi ve jeneratörü **asla** ev, çadır, garaj veya kapalı balkon gibi kapalı alanlarda kullanmayın. Bunlar kokusuz ve görünmez **karbonmonoksit** gazı üretir; uyurken öldürür. Baş ağrısı, baş dönmesi ve bulantı ilk belirtilerdir: [[karbonmonoksit]].
+> Mangal, kömür, barbekü, odun ateşi, kamp ocağı ve jeneratörü **asla** ev, çadır, garaj veya kapalı balkon gibi kapalı alanlarda kullanmayın. Bunlar kokusuz ve görünmez **karbonmonoksit** gazı üretir; uyurken öldürür. Baş ağrısı, baş dönmesi ve bulantı ilk belirtilerdir: [[karbonmonoksit]].
 
 ## Pişirme Seçenekleri
 
 | Yöntem | Yakıt | İç mekânda kullanım | Not |
 |---|---|---|---|
-| Tüplü kamp ocağı | Bütan/propan kartuş | Yalnızca pencere açık, kısa süre, gözetim altında | Hızlı ve kolay; kartuş stoklayın |
-| İspirto ocağı | Etil alkol (ispirto) | Havalandırmayla, dikkatli | Hafif; alevi gündüz zor görünür |
+| Tüplü kamp ocağı | Bütan/propan kartuş | **Hayır;** açık havada, kapı ve pencerelerden uzakta | Hızlı ve kolay; kartuş stoklayın |
+| İspirto ocağı | Etil alkol (ispirto) | **Hayır;** açık havada | Hafif; alevi gündüz zor görünür |
 | Odun ateşi / ocak | Odun, dal | **Hayır** | Yakıt bol ama çok tüketir |
 | Roket soba | İnce dal, kozalak | **Hayır** | Az yakıtla güçlü alev |
 | Güneş fırını | Güneş | Dışarıda | Bedava; güneşli günde |
@@ -28,7 +28,7 @@ Elektrik ve doğalgaz kesildiğinde yemek pişirmek hem yakıt hem güvenlik sor
 - Ocağı düz, yanmaz bir zemine koyun; perde ve kumaştan uzak tutun.
 - Üzerine ocağından büyük tencere koymayın; ısı geri yansıyıp kartuşu ısıtabilir.
 - Kartuşları güneşten ve ısıdan uzak, serin yerde saklayın.
-- İç mekânda yalnızca **pencere açıkken**, kısa süreli ve başında durarak kullanın. Uyumadan önce mutlaka kapatın.
+- Ev, çadır, araç, garaj veya kapalı balkon içinde **kullanmayın**; pencere açık olsa bile karbonmonoksit birikebilir. Açık havada, kapı ve pencerelerden uzakta ve başında durarak kullanın.
 
 ## Roket Soba
 
@@ -50,7 +50,7 @@ Yaklaşık 12–16 tuğla yeterlidir. Amaç, altta yatay bir yakıt girişi ve o
 Büyük bir teneke (boya kutusu veya yağ tenekesi) içine, yan tarafından girip yukarı çıkan bir boru yerleştirilir; boru ile teneke arası **kül veya kumla** doldurulur (yalıtım). Aynı prensipte çalışır.
 
 > [!UYARI]
-> Galvanizli (çinko kaplı) saç ve boyalı tenekeler ısınınca zehirli duman çıkarır. Kullanmadan önce açık havada boyası tamamen yanana kadar yakın ve dumanından uzak durun.
+> Galvanizli (çinko kaplı) saç ısınınca zehirli çinko dumanı çıkarır; roket soba için **kullanmayın**. Boyalı tenekeler de zehirli duman çıkarır: kullanmadan önce açık havada boyası tamamen yanana kadar yakın ve dumanından uzak durun.
 
 ## Dakota Çukur Ateşi
 
@@ -116,7 +116,7 @@ Yakıt tasarrufunun en güçlü yoludur. Büyüklerimizin pilavı yorgan altınd
 
 ## Akılda Tutun
 
-- Mangal, kömür ve ateşi asla kapalı alanda yakmayın.
+- Mangal, kömür, kamp ocağı ve ateşi asla kapalı alanda yakmayın.
 - Roket soba ve Dakota çukuru az yakıtla güçlü ısı verir.
 - Yalıtımlı kutu yakıtın yarısından fazlasını kurtarır; çıkınca hemen yiyin.
 - Bakliyatı ıslatın, kapağı kapalı tutun, hızlı pişen gıdaları seçin.

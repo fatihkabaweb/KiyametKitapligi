@@ -17,7 +17,7 @@ Felaketten sonraki ilk 72 saatte yardım size ulaşamayabilir. Acil durum çanta
 
 ## Su ve Gıda
 
-- [ ] İçme suyu: kişi başı **günde en az 2 litre**, 3 gün için toplam en az 6 litre (taşıyabildiğiniz kadar; geri kalanını evde stoklayın)
+- [ ] İçme suyu: kişi başı **günde en az 2 litre**, 3 gün için toplam en az 6 litre. Bu yalnızca **içmek** içindir (sıcakta ve ağır yürüyüşte daha fazlası gerekir); evde planlanan günlük 4 litrenin geri kalanı yemek ve hijyen içindir. Taşıyamadığınızı evde stoklayın, yolda arıtarak tamamlayın: [[su-ihtiyaci-ve-depolama]]
 - [ ] Su arıtma tableti veya küçük şişe sade, parfümsüz çamaşır suyu ve damlalık: [[su-aritma]]
 - [ ] Katlanabilir su kabı veya boş matara
 - [ ] Pişirme gerektirmeyen, yüksek kalorili gıdalar: kuruyemiş, kuru meyve, enerji barı, bisküvi, kraker, helva

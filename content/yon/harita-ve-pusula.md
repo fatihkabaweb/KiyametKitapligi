@@ -68,6 +68,7 @@ Pusula **manyetik kuzeyi**, harita ise **coğrafi (gerçek) kuzeyi** gösterir. 
 - Kısa mesafelerde bu fark çok önemli değildir.
 - Ancak 1 km yürüyüşte 6 derecelik bir hata, hedefin yaklaşık **100 metre** yanına çıkmanız demektir.
 - Doğu sapmasında: **Haritadan aldığınız açıdan sapma değerini çıkarın**, pusulaya o açıyı kurun. (Örnek: Haritada 90°, sapma 6° doğu: pusulada 84°.)
+- Tersine, pusulayla aldığınız açıyı haritaya aktarırken (ör. konum bulurken) sapma değerini **ekleyin**. (Örnek: Pusulada 84°, haritada 90°.)
 
 ## Kerteriz Almak ve Yönü Takip Etmek
 
@@ -107,7 +108,7 @@ Tam yerinizi bilmeseniz bile; bir yolun, derenin, elektrik hattının veya sırt
 
 1. Arazide görebildiğiniz ve haritada da tanıdığınız **iki belirgin nokta** seçin (ör. bir tepe ve bir kule). Aralarında mümkünse 60–90 derecelik açı olsun.
 2. Pusulanın yürüyüş yönü okunu birinci noktaya çevirin, iğneyi kulübeye sokup kadranı ayarlayın; açıyı okuyun.
-3. Pusulayı haritaya koyun, kenarı birinci noktaya dokunsun, kadran çizgileri haritanın kuzey çizgilerine paralel olsun. Kenar boyunca bir çizgi çizin.
+3. Okuduğunuz açıya sapma değerini ekleyip kadranı yeniden ayarlayın. Pusulayı haritaya koyun, kenarı birinci noktaya dokunsun, kadran çizgileri haritanın kuzey çizgilerine paralel olsun. Kenar boyunca bir çizgi çizin.
 4. Aynısını ikinci nokta için yapın.
 5. İki çizginin kesiştiği yer, yaklaşık konumunuzdur.
 

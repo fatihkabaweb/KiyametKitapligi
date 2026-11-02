@@ -29,7 +29,7 @@ Elinizde yakıt varsa en güvenli yöntem budur.
 
 1. Berraklaştırılmış suyu bir tencereye koyun.
 2. **Fokur fokur kaynamaya** başladıktan sonra **1 dakika** kaynatın.
-3. Rakım **2000 metrenin üzerindeyse** süreyi **3 dakikaya** çıkarın.
+3. Rakım **1000 metrenin üzerindeyse** süreyi **3 dakikaya** çıkarın (kaynaklar 1000 ile 2000 metre arasında farklı sınırlar verir; düşük olanı esas alın).
 4. Kapağı kapalı olarak soğumaya bırakın.
 5. Temiz ve kapaklı kaplarda saklayın.
 
@@ -40,7 +40,7 @@ Elinizde yakıt varsa en güvenli yöntem budur.
 
 Sıradan çamaşır suyu, doğru kullanılırsa suyu güvenle dezenfekte eder.
 
-**Kullanılabilecek ürün:** Yalnızca **sodyum hipoklorit** içeren, **parfümsüz**, renk koruyucu veya deterjan katkısı olmayan sade çamaşır suyu. Etiketteki klor oranına bakın.
+**Kullanılabilecek ürün:** Yalnızca **sodyum hipoklorit** içeren, **parfümsüz**, renk koruyucu veya deterjan katkısı olmayan sade çamaşır suyu. Etiketteki klor oranına bakın. Çamaşır suyu zamanla gücünü kaybeder: oda sıcaklığında saklanmış ve **1 yıldan eski olmayan** ürün kullanın; eski üründe koku testini mutlaka yapın.
 
 | Etiketteki klor oranı | 1 litre su için | 5 litre su için | 20 litre su için |
 |---|---|---|---|
@@ -66,6 +66,7 @@ Tentürdiyot (yüzde 2) ile:
 
 - Berrak suda **litre başına 5 damla**, bulanık veya soğuk suda **10 damla** kullanın.
 - Karıştırıp **en az 30 dakika** bekleyin; su soğuksa 1 saat bekleyin.
+- Eczanelerde yaygın olan kahverengi yara antiseptiği **%10 povidon-iyot** tentürdiyot değildir ve yaklaşık yarısı kadar iyot verir. Bunu kullanıyorsanız berrak suda litre başına **8 damla**, bulanık veya soğuk suda **16 damla** kullanın.
 
 > [!UYARI]
 > Hamileler, emziren anneler, tiroit hastaları ve iyot alerjisi olanlar iyotla arıtılmış suyu içmemelidir. İyot, birkaç haftadan uzun süreli sürekli kullanım için uygun değildir.
@@ -106,8 +107,8 @@ Mümkünse yöntemleri **birleştirin**: önce süzün, sonra kaynatın ya da kl
 
 - Kaynağından emin olmadığınız her suyu arıtın.
 - Önce berraklaştırın, sonra dezenfekte edin.
-- Kaynatma: fokurdadıktan sonra 1 dakika (yüksek rakımda 3 dakika).
+- Kaynatma: fokurdadıktan sonra 1 dakika (1000 metrenin üzerinde 3 dakika).
 - Çamaşır suyu: sade, parfümsüz ürün; %4–6 oranında litre başına 2 damla, 30 dakika bekleme, hafif klor kokusu.
-- Hiçbir ev yöntemi kimyasal kirliliği gidermez.
+- Kaynatma, klor, iyot ve SODIS kimyasal kirliliği gidermez; yakıt veya kimyasal kokan suyu içmeyin.
 
 **İlgili:** [[su-bulma]], [[filtre-yapimi]], [[ishal-ve-dehidrasyon]]

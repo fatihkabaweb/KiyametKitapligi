@@ -48,7 +48,7 @@ Atarken çocukların ve hayvanların ulaşamayacağı şekilde, kapalı bir poş
 Ev yapımı **düşük asitli** konserveler (taze fasulye, bezelye, enginar, mısır, et, mantar) Türkiye'de de botulizm vakalarının bilinen kaynaklarıdır. Bu konserveleri yemeden önce:
 
 1. Kapağı ve görünümü kontrol edin (yukarıdaki liste).
-2. İçeriği bir tencereye boşaltın ve **en az 10 dakika fokur fokur kaynatın**. Bu, toksini yok eder.
+2. İçeriği bir tencereye boşaltın ve **en az 10 dakika fokur fokur kaynatın**; rakım 300 metreden yüksekse her 300 metre için 1 dakika ekleyin. Bu, olası toksini yok eder; ancak hatalı yapılmış bir konserveyi tamamen güvenli kılacağı garanti değildir. Kaynatmadan önce tadına bakmayın.
 3. Şüpheli görünen bir kavanozu kaynatarak "kurtarmaya" çalışmayın; atın.
 
 Güvenli konserve yapımı için: [[gida-koruma]].
@@ -69,7 +69,7 @@ Güvenli konserve yapımı için: [[gida-koruma]].
 Sel suyu kanalizasyon ve kimyasal taşır.
 
 - Sel suyuna değen **her türlü açık, ambalajlı, kartonlu, vidalı kapaklı** gıdayı atın (kavanozlar dahil; kapak altından su girer).
-- Yalnızca hasarsız, **hazır metal konserve kutuları** kurtarılabilir: etiketi çıkarın, sabunlu suyla yıkayın, her 1 litre suya yaklaşık 1 yemek kaşığı (15 ml) sade çamaşır suyu katılmış karışımda 15 dakika bekletin, kurutun ve içeriği kalıcı kalemle kutunun üzerine yazın.
+- Yalnızca hasarsız, **hazır metal konserve kutuları** kurtarılabilir: etiketi çıkarın, sabunlu suyla yıkayıp temiz suyla durulayın. Sonra ya **her 4 litre suya 1 yemek kaşığı** (15 ml; litre başına yaklaşık 1 çay kaşığı) sade çamaşır suyu katılmış taze karışımda **15 dakika** bekletin ya da kutuları suda **2 dakika kaynatın**. Havada kurutun ve içeriği kalıcı kalemle kutunun üzerine yazın.
 
 ## Gıda Zehirlenmesinden Korunma
 

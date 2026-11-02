@@ -13,7 +13,7 @@ sira: 1
 |---|---|
 | Yalnızca içme (serin hava, dinlenme) | 2–3 litre |
 | İçme + yemek hazırlama + asgari hijyen | **en az 4 litre** |
-| İnsani yardım standardı (Sphere) — içme, yemek, temel hijyen | 7,5–15 litre |
+| İnsani yardım standardı (Sphere) — içme, yemek, temel hijyen | 7,5–15 litre (hedef ortalama en az 15 litre) |
 | Sıcak hava, ağır fiziksel iş, emziren anne, hasta | 6 litre ve üzeri |
 
 Planlama için **kişi başı günde en az 4 litre** hesaplayın. Bunun en az 2–3 litresi içmek içindir.
@@ -29,6 +29,8 @@ Planlama için **kişi başı günde en az 4 litre** hesaplayın. Bunun en az 2�
 | 1 ay | 120 litre | 480 litre |
 
 Evcil hayvanlar için de pay ayırın: orta boy bir köpek günde yaklaşık 1 litre içer.
+
+Acil durum çantasında ise ağırlık nedeniyle yalnızca **içme suyu** taşınır (kişi başı günde en az 2 litre, 3 gün için en az 6 litre); bu miktar evdeki stoğun yerine geçmez: [[acil-durum-cantasi]].
 
 > [!UYARI] Suyu karneye bağlamayın
 > Su azaldığında insanlar içmeyi kısar ve bu bayılma, böbrek sorunu ve yanlış kararlarla sonuçlanır. Elinizdeki suyu **bugünkü ihtiyacınız kadar için**, yarın yenisini aramaya çalışın. Bunun yerine terlemeyi azaltın: gölgede kalın, sıcak saatlerde çalışmayın, konuşmayı ve tuzlu yemeği azaltın.

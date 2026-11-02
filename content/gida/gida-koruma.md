@@ -35,7 +35,7 @@ Türkiye'de geleneksel olarak kurutulanlar: domates, biber, patlıcan, kabak, ba
 Et kurutma, sebze kurutmaktan çok daha risklidir.
 
 1. Yağsız eti, liflerine paralel **3–5 mm** kalınlığında şeritler halinde kesin. Görünen yağları ayırın; yağ acılaşır.
-2. Mümkünse şeritleri kurutmadan önce kısa bir süre **kaynayan tuzlu suda haşlayın** veya fırında ısıtın. Eti önce yeterince ısıtmak (iç sıcaklık 71 °C) bakterileri öldürür.
+2. Mümkünse şeritleri kurutmadan önce kısa bir süre **kaynayan tuzlu suda haşlayın** veya fırında ısıtın. Eti önce yeterince ısıtmak (iç sıcaklık 71 °C, tavuk ve diğer kuşlarda 74 °C) bakterileri öldürür. **Yaban domuzu ve ayı** etinde bu adımı asla atlamayın: kurutma, tuzlama ve tütsüleme trişin parazitini güvenle öldürmez.
 3. Bol tuz ve isteğe göre karabiber, kırmızı biber ile ovun.
 4. Sıcak, kuru ve rüzgârlı bir yerde, sinekten korunarak asın. Mümkünse duman altında kurutun (aşağıya bakın).
 5. Et, büküldüğünde **kırılmadan çatlamalı**, içi tamamen kuru olmalıdır.
@@ -98,7 +98,7 @@ Yoğurt, un, domates, biber, soğan ve nane yoğrulup birkaç gün fermente edil
 - **Yüksek asitli** gıdalar (meyve, reçel, turşu, limon eklenmiş domates) kaynar su banyosunda güvenle konserve yapılabilir: dolu ve kapağı kapalı kavanozlar tamamen suyun altında kalacak şekilde kaynar suda kavanoz büyüklüğüne göre genellikle 10–40 dakika tutulur.
 - **Düşük asitli** gıdalar (taze fasulye, bezelye, mısır, et, nohut, mantar) **yalnızca basınçlı tencerede** (düdüklü tencere değil, konserve için yapılmış basınçlı kap) güvenle konserve yapılabilir. Kaynar su bunlar için **yetmez**.
 - Basınçlı konserve imkânı yoksa düşük asitli sebzeleri **kurutun** veya **turşu yapın**.
-- Ev yapımı düşük asitli konserveleri yemeden önce **10 dakika kaynatın**.
+- Ev yapımı düşük asitli konserveleri yemeden önce **en az 10 dakika kaynatın** (yüksek rakımda daha uzun): [[gida-guvenligi]].
 
 ## 7. Serin Depoda (Mahzen) Saklama
 

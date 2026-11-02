@@ -55,7 +55,7 @@ Balık sıcakta çok çabuk bozulur. Bozulma belirtileri: bulanık ve çökük g
 
 ### Midye ve kabuklular
 
-- Midye ve benzeri kabuklular, suyu süzerek beslendikleri için kirli sudaki mikropları ve deniz yosunu zehirlerini (özellikle "kırmızı gel-git" dönemlerinde) biriktirir.
+- Midye ve benzeri kabuklular, suyu süzerek beslendikleri için kirli sudaki mikropları ve deniz yosunu zehirlerini (özellikle "kırmızı gel-git" dönemlerinde) biriktirir. Bu zehirler **pişirmekle yok olmaz**.
 - Yalnızca **temiz, açık deniz** kıyılarından, **canlı** ve **kapakları sıkıca kapalı** olanları toplayın.
 - Liman, kanalizasyon çıkışı ve dere ağızlarından toplamayın.
 - İyice pişirin; pişince **açılmayanları atın.**

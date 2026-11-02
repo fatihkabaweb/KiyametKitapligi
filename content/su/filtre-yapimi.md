@@ -101,7 +101,7 @@ Yakıtınız varsa damıtma çok daha hızlıdır:
 | Yöntem | Çamur / bulanıklık | Mikroplar | Tuz | Ağır metal / kimyasal |
 |---|---|---|---|---|
 | Dinlendirme ve bez | Kısmen | Hayır | Hayır | Hayır |
-| Kum-kömür filtresi | Evet | Kısmen | Hayır | Kısmen (kömür) |
+| Kum-kömür filtresi | Evet | Kısmen | Hayır | Çok az; güvenmeyin |
 | Kaynatma / klor | Hayır | Evet | Hayır | Hayır |
 | Damıtma | Evet | Evet | Evet | Çoğunlukla |
 | Ticari seramik / membran filtre | Evet | Çoğunlukla (ürüne göre) | Hayır | Ürüne göre |

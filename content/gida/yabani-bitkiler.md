@@ -62,6 +62,8 @@ Anadolu'da yüzlerce yabani bitki yüzyıllardır sofraya gelir. Yabani otlar ö
 
 > [!UYARI]
 > Kuzukulağı ve labada yüksek miktarda **oksalik asit** içerir; az miktarda yiyin. Böbrek taşı veya böbrek hastalığı olanlar tüketmemelidir.
+>
+> Ok şeklindeki genç yaprakları, aynı yerlerde çıkabilen zehirli **yılanyastığı** ile karışabilir. Kuzukulağı yaprağının dipteki iki ucu **sivri ve aşağı dönüktür**, tadı ekşidir; yılanyastığınınki **yuvarlaktır**, yaprağı parlaktır ve ağzı hemen yakar. Ağzınız yanarsa hemen tükürün.
 
 ### Yabani hardal ve turpotu
 
@@ -86,12 +88,13 @@ Genç yaprakları haşlanarak yenir. Ege'de "hardal otu" ve "turp otu" olarak bi
 
 | Zehirli bitki | Neye benzer? | Tanıma ve uyarı |
 |---|---|---|
-| **Baldıran** | Yabani havuç, maydanoz, rezene, dereotu | Pürüzsüz gövdesinde **mor-kırmızı lekeler**, ezilince fare idrarı gibi kötü koku, şemsiye şeklinde beyaz çiçek kümesi. **Ölümcüldür.** Şemsiye çiçekli bitkileri (havuç ailesi) uzman değilseniz hiç toplamayın |
-| **Porsuk ağacı** | Çam, köknar | Yassı, koyu yeşil iğne yapraklar; kırmızı, ortası açık kadeh şeklinde meyveler. **Yaprak ve tohumları ölümcüldür;** meyvesini de yemeyin |
+| **Baldıran** | Yabani havuç, maydanoz, rezene, dereotu | Pürüzsüz gövdesinde **mor-kırmızı lekeler** (genç bitkide olmayabilir; leke yoksa güvenli demek değildir), ezilince fare idrarı gibi kötü koku, şemsiye şeklinde beyaz çiçek kümesi. **Ölümcüldür;** aynı ailede başka ölümcül türler de vardır. Şemsiye çiçekli bitkileri (havuç ailesi) uzman değilseniz hiç toplamayın |
+| **Porsuk ağacı** | Çam, köknar | Yassı, koyu yeşil iğne yapraklar; kırmızı, ortası açık kadeh şeklinde meyveler. **Yaprak ve tohumları ölümcüldür;** meyvesini de yemeyin, iğnelerinden çay yapmayın |
 | **Zakkum** | Süs bitkisi; kıyı ve parklarda çok yaygın | Uzun, kalın, mızrak şeklinde yapraklar; pembe, beyaz veya kırmızı çiçekler. **Her yeri çok zehirlidir;** dalını şiş yapmayın, yakıp dumanını solumayın |
 | **Güzelavratotu** | Kiraz, yaban mersini | Parlak siyah, kiraz büyüklüğünde meyveler. Ölümcül |
-| **Güz çiğdemi (acı çiğdem)** | Ayı sarımsağı, yabani pırasa | Yaprakları ezildiğinde **sarımsak kokmaz**. Ayı sarımsağı belirgin sarımsak kokar. Ölümcül |
+| **Güz çiğdemi (acı çiğdem)** | Ayı sarımsağı, yabani pırasa | Yaprakları ezildiğinde **sarımsak kokmaz**. Ayı sarımsağı belirgin sarımsak kokar; ama elinize sinen koku yanıltabilir, her yaprağı ayrı koklayın. Zehirli **inci çiçeği (müge)** de ayı sarımsağına benzer. Ölümcül |
 | **Sütleğen türleri** | Semizotu | Beyaz sütlü özsu; yakıcıdır |
+| **Yılanyastığı** | Kuzukulağı, labada | Parlak, ok şeklinde, bazen lekeli veya açık renk damarlı yapraklar; yaprağın dipteki iki ucu yuvarlak. Sonra koçan şeklinde çiçek ve kırmızı meyve salkımı. Ağzı ve boğazı şiddetle yakar, şişirir |
 
 Ayrıca Karadeniz'de bazı ormangülü çiçeklerinden yapılan **"deli bal"** ciddi zehirlenme yapabilir; kaynağını bilmediğiniz balı az miktarda bile yemeyin.
 
@@ -100,11 +103,11 @@ Ayrıca Karadeniz'de bazı ormangülü çiçeklerinden yapılan **"deli bal"** c
 Bazı hayatta kalma kitapları, tanımadığınız bir bitkiyi önce cilde sürmek, sonra dudağa değdirmek, sonra az miktarda yemek gibi aşamalarla saatlerce test etmeyi önerir.
 
 > [!UYARI] Bu test sizi korumaz
-> - En tehlikeli zehirlerin bir kısmının (baldıran, porsuk, ölümcül mantarlar) etkisi gecikebilir veya çok küçük miktarda bile öldürücüdür.
+> - Test, ölümcül zehirlerin birçoğunu **tespit etmez.** Bazı zehirler test sırasında hiçbir tat, yanma veya erken belirti vermez, saatler sonra etki eder (ör. ölümcül mantarlar); bazıları ise testteki küçük miktarda bile öldürebilir (baldıran, porsuk, zakkum, güz çiğdemi).
 > - Test her bitki parçası için 24 saatten fazla sürer ve çok az kalori kazandırır.
 > - **Mantarlara ve şemsiye çiçekli bitkilere asla uygulanmaz.**
 >
-> Bu test yalnızca başka hiçbir gıda kaynağı kalmadığında, açlıktan ölmek üzereyken son çare olarak düşünülebilir. Bunun yerine tanıdığınız birkaç bitkiyi iyi öğrenin.
+> Sağlıklı bir yetişkin yiyeceksiz haftalarca yaşayabilir; tanımadığınız bir bitki ise saatler içinde öldürebilir. Bu test ancak başka hiçbir gıda kaynağı kalmadığında, en son çare olarak düşünülebilir. Bunun yerine tanıdığınız birkaç bitkiyi iyi öğrenin.
 
 "Kuşların ve hayvanların yediği bitki insan için de güvenlidir" düşüncesi **yanlıştır**. Birçok kuş, insanı öldürecek meyveleri yiyebilir.
 
