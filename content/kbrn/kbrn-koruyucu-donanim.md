@@ -41,7 +41,7 @@ Doğru koruyucu donanım, kimyasal, biyolojik veya radyoaktif tehlikede hayat ku
 | Yeşil | K | Amonyak ve türevleri |
 | Beyaz | P | Parçacıklar (toz, duman, mikroorganizma, radyoaktif toz); P3 en yüksek sınıf |
 
-Birden çok rengi olan **kombine filtreler** (örneğin A2B2E2K2-P3) çok çeşitli tehlikelere karşı korur ve sivil kullanım için en uygun seçenektir.
+Birden çok rengi olan **kombine filtreler** (örneğin A2B2E2K2-P3) çok çeşitli sanayi kimyasallarına karşı korur ve sivil kullanım için çok yönlü bir seçenektir. Savaş amaçlı kimyasal ajanlara karşı ise **KBRN için sertifikalandırılmış** filtre tercih edin.
 
 ## Maskeyi Doğru Takmak
 

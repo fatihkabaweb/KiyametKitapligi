@@ -20,7 +20,7 @@ Aynı kural, yakıtla çalışan **her** motor ve cihaz için geçerlidir: araç
 1. Jeneratörü evin prizine bağlayarak tüm evi beslemeye **çalışmayın**. Bu "geri besleme", elektrik hattını onaran ekipleri ve komşularınızı öldürebilir, jeneratörü de yakabilir. Evi beslemek için bir elektrikçinin kurduğu **transfer şalteri** gerekir.
 2. Cihazları jeneratöre doğrudan veya **dış mekâna uygun, yeterince kalın** bir uzatma kablosuyla bağlayın. Kablonun taşıyabileceği gücü kontrol edin; ısınan kablo yangın çıkarır.
 3. Yüksek yükte uzatma kablosunu **makarasında sarılı bırakmayın**; sarılı kablo ısınır.
-4. Jeneratörü kuru bir zeminde, yağmurdan korunan ama **dört yanı açık** bir sundurma altında çalıştırın. Islak elle dokunmayın.
+4. Jeneratörü kuru bir zeminde, yağmurdan korunan ama **dört yanı açık**, binaya bitişik olmayan bir tente veya çatı altında çalıştırın (yine binadan en az 6 metre uzakta). Kapalı balkon, garaj, binaya bitişik sundurma ve araç gölgeliği uygun değildir. Islak elle dokunmayın.
 5. Topraklama için üreticinin talimatına uyun.
 
 ## Doğru Boyutu Seçmek
@@ -35,7 +35,7 @@ Hassas elektronik cihazlar (bilgisayar, tıbbi cihaz) için **invertörlü** jen
 ## Yakıt Tasarrufu
 
 - Jeneratörü sürekli değil, **aralıklarla** çalıştırın. Örneğin günde birkaç kez 1–2 saat: buzdolabını soğutun, aküleri ve telefonları şarj edin, suyu pompalayın; sonra kapatın.
-- Küçük (1–3 kW) jeneratörler yüke bağlı olarak saatte yaklaşık **0,5–1,5 litre** yakıt harcar. Kendi cihazınızın kılavuzundaki tüketimi not edin ve stoğunuzu buna göre hesaplayın.
+- Küçük (1–3 kW) jeneratörler yüke bağlı olarak saatte yaklaşık **0,4–2 litre** yakıt harcar; düşük yükte invertörlü modeller daha az, tam yükte büyük modeller daha çok yakar. Kendi cihazınızın kılavuzundaki tüketimi not edin ve stoğunuzu buna göre hesaplayın.
 - Gündüz güneş enerjisiyle, gece aküyle idare etmek yakıtı büyük ölçüde azaltır: [[gunes-enerjisi-ve-aku]].
 
 ## Yakıt Doldurma

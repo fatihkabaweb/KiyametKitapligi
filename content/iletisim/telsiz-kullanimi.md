@@ -28,7 +28,7 @@ Cep telefonu şebekesi çöktüğünde telsizler, aile ve grup içinde haberleş
 - Bütün telsizleriniz aynı kanalda ve **aynı alt kodda** olmalı; ya da alt kodu kapalı kullanın.
 
 > [!IPUCU] Kanal planı yapın
-> PMR446'nın resmi bir acil kanalı yoktur. Ailenizle veya grubunuzla önceden bir **ana kanal** ve bir **yedek kanal** belirleyip aile planınıza yazın: [[aile-acil-durum-plani]]. Ana kanal meşgulse yedeğe geçin.
+> PMR446'nın resmi bir acil kanalı yoktur. Ailenizle veya grubunuzla önceden bir **ana kanal** ve bir **yedek kanal** belirleyip aile planınıza yazın: [[aile-acil-durum-plani]]. Eski 8 kanallı cihazlarla da konuşabilmek için kanalları 1–8 arasından seçin. Ana kanal meşgulse yedeğe geçin.
 
 ## Menzili Artırmak
 

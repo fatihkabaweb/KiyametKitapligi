@@ -66,7 +66,7 @@ Yangınlarda ölümlerin çoğu alevden değil, **dumandan** olur. Duman birkaç
 
 ### Önceden
 
-- Ormana yakın yaşıyorsanız evin çevresindeki **en az 10 metre** alanda kuru ot, çalı ve yanıcı malzeme bırakmayın.
+- Ormana yakın yaşıyorsanız evin çevresindeki **en az 10 metre** (mümkünse 30 metre) alanda kuru ot, çalı ve yanıcı malzeme bırakmayın.
 - Odun yığınlarını ve yakıtı evden uzakta tutun.
 - Yangın mevsiminde ormanda ateş yakmayın; sigara izmariti ve cam şişe atmayın.
 - Orman yangınını görürseniz hemen **112**'ye bildirin.
@@ -83,7 +83,7 @@ Yangınlarda ölümlerin çoğu alevden değil, **dumandan** olur. Duman birkaç
 - **Yokuş yukarı kaçmayın.** Yangın yokuş yukarı çok daha hızlı ilerler.
 - Yangının yanlarına doğru, rüzgârın tersine ve **önceden yanmış alana**, dere yatağına, sürülmüş tarlaya, kayalık veya çıplak toprağa gidin.
 - Kaçamıyorsanız bir hendeğe veya çukura yatın, üzerinizi toprakla veya ıslak bir battaniyeyle örtün, ağzınızı ve burnunuzu koruyun.
-- Araçta kaldıysanız araç ormandan ve bitkilerden uzakta dursun; camları ve havalandırmayı kapatın, motoru çalışır bırakın, aracın içinde yere eğilin ve üstünüzü örtün. Araç dışından geçen alev, dışarıda olmaktan daha az tehlikelidir.
+- Araçta kaldıysanız araç ormandan ve bitkilerden uzakta dursun; camları ve havalandırmayı kapatın, farları yakın, aracın içinde yere eğilin ve üstünüzü yün battaniye veya kalın bir giysiyle örtün. Ana alev geçene kadar araçta kalın. Araç dışından geçen alev, dışarıda olmaktan daha az tehlikelidir.
 
 ### Duman
 

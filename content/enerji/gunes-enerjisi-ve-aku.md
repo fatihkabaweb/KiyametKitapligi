@@ -79,7 +79,7 @@ Aynı anda çalışacak cihazların toplam gücünü **1,25** ile çarpın. Moto
 2. Eğim açısı yaklaşık bulunduğunuz **enlem** kadar olsun (Türkiye'de 36–42 derece). Kışın enleme **15 derece ekleyin**, yazın **15 derece çıkarın**.
 3. Panelin hiçbir kısmının gölgede kalmamasına dikkat edin. **Küçük bir gölge bile** üretimi büyük oranda düşürür.
 4. Bağlantı sırası: **önce aküyü** kontrol cihazına, **sonra paneli** bağlayın. Sökerken tersini yapın: önce paneli, sonra aküyü ayırın. Kendi cihazınızın kılavuzunu kontrol edin.
-5. Akünün artı (+) kutbuna, kutba **olabildiğince yakın** (birkaç on santimetre içinde) bir ana sigorta takın. Sigorta değeri, kablonun taşıyabileceği akımdan düşük olmalıdır.
+5. Akünün artı (+) kutbuna, kutba **olabildiğince yakın** (mümkünse 20 cm içinde) bir ana sigorta takın. Sigorta değeri, kablonun taşıyabileceği akımdan düşük olmalıdır.
 6. Kabloları kısa tutun, uçlarını pabuçla sıkıca bağlayın, renklerle işaretleyin (kırmızı artı, siyah eksi).
 7. Paneli tozdan, kardan ve kuş pisliğinden arındırmak için ara ara suyla ve yumuşak bir bezle silin.
 

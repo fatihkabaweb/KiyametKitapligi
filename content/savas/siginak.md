@@ -38,7 +38,7 @@ Resmi sığınağa ulaşamıyorsanız evinizdeki en güvenli noktayı hazırlay�
 1. **Seçim:** Pencere yok veya en az pencere, en kalın duvarlar, binanın ortası. Banyo, koridor, kiler, merdiven altı.
 2. **Pencere varsa:** Güvenlik filmi yapıştırın, kalın perde takın. Önüne dolap veya kitaplık koymak cam ve şarapnel parçalarına karşı ek koruma sağlar.
 3. **Duvarları güçlendirin:** Dış duvar tarafına kitap dolu raflar, su bidonları, kum veya toprak torbaları dizmek koruma sağlar. Ağırlık, döşemenin taşıyabileceği kadar olmalı.
-4. **Havalandırma:** Kalabalık ve uzun süreli kalışlarda temiz hava şarttır. Kimyasal tehlike yoksa kapıyı aralık bırakın veya düzenli havalandırın.
+4. **Havalandırma:** Kalabalık ve uzun süreli kalışlarda temiz hava şarttır. Kimyasal tehlike veya radyoaktif serpinti yoksa kapıyı aralık bırakın veya düzenli havalandırın. Kimyasal tehlikede ve serpintinin ilk saatlerinde dış kapı, pencere ve havalandırmayı kapalı tutun; yetkililerin talimatına uyun.
 5. **Malzemeleri yerleştirin** (aşağıdaki liste).
 
 ## Sığınak Malzeme Listesi (En Az 72 Saat)

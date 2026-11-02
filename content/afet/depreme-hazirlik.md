@@ -52,7 +52,7 @@ Deprem sonrasında yangın ve gaz patlaması en büyük ikinci tehlikedir.
 2. **Elektrik sigorta kutusunun** yerini ve ana şalteri öğrenin.
 3. **Su ana vanasını** bulun.
 4. Vanaların yanına küçük bir İngiliz anahtarı veya pense asın.
-5. Gaz kokusu yoksa vanaları "tatbikat için" kapatıp açmayı deneyin; sıkışmış vanayı önceden fark edin.
+5. Su vanasını "tatbikat için" kapatıp açarak sıkışmadığını kontrol edebilirsiniz. **Gaz vanasını ise tatbikatta gerçekten kapatmayın**; yalnızca yerini ve hangi yöne çevrileceğini gösterin. Kapatılan gazı yeniden açmak, sönmüş cihaz alevlerinden gaz kaçağına yol açabilir; gaz bir kez kapatıldıysa tesisat ve cihazlar yetkili bir kişi tarafından kontrol edilmeden açmayın.
 
 ## 5. Malzeme ve Plan
 
@@ -73,7 +73,7 @@ Yılda en az iki kez aile tatbikatı yapın:
 2. Herkes en yakın güvenli noktaya gidip **Çök, Kapan, Tutun** pozisyonu alsın ve 1 dakika beklesin.
 3. Ardından çantalar alınarak, merdivenle ve sakin bir şekilde binadan çıkılsın.
 4. Toplanma alanına yürüyün, kimin ne kadar sürede geldiğine bakın.
-5. Eksikleri konuşun: Kim gaz vanasını kapattı? Çocuk kimin sorumluluğunda?
+5. Eksikleri konuşun: Gaz vanasını kapatmak kimin görevi? Çocuk kimin sorumluluğunda?
 
 > [!IPUCU] Özel ihtiyaçlar
 > Evde yaşlı, engelli, bebek veya evcil hayvan varsa onların çıkışını kimin sağlayacağını önceden belirleyin. Tekerlekli sandalye, işitme cihazı pili, gözlük ve düzenli ilaçlar plana dahil olsun.

@@ -54,7 +54,7 @@ AFAD'ın açıkladığı uyarı sistemine göre işaretler şöyledir:
 ## Ne Kadar Beklemeli?
 
 - **Beyaz ikaz** veya resmi "tehlike geçti" duyurusu gelene kadar sığınakta kalın.
-- Duyuru alamıyorsanız, son patlama sesinden sonra **en az 10 dakika** daha bekleyin.
+- Duyuru alamıyorsanız, son patlama sesinden sonra **en az 10 dakika** daha bekleyin. Patlamalar aralıklarla sürüyorsa veya çevrede çatışma devam ediyorsa daha uzun bekleyin.
 - Radyonuzu açık tutun: [[radyo-ile-haber-alma]].
 
 ## Saldırıdan Sonra

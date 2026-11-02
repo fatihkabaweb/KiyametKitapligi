@@ -50,7 +50,7 @@ Yeni başlayanlar için yaklaşık **1 birim = yarım saniye** iyi bir başlang�
 
 ### Türkçe harfler
 
-Uluslararası Mors alfabesinde Türkçe harfler için ortak kabul görmüş kodlar yoktur. Karşı tarafın anlayabilmesi için şöyle gönderin:
+Uluslararası (ITU) Mors alfabesinde Türkçe harfler yoktur. Bazı ek kodlar bulunsa da standart değildir ve karşı taraf bilmeyebilir. Karşı tarafın anlayabilmesi için şöyle gönderin:
 
 | Türkçe harf | Gönderilecek harf |
 |---|---|

@@ -73,7 +73,7 @@ Depremden sonraki ilk saatlerde artçı sarsıntılar, gaz kaçakları, yangınl
 ## Evinize Dönerken
 
 1. Resmi hasar tespiti yapılmadan eve girmeyin.
-2. Girdiğinizde önce **gaz kokusu** kontrol edin; kokuyorsa hemen çıkın.
+2. Girdiğinizde önce **gaz kokusu** kontrol edin; kokuyorsa hemen çıkın. Kapattığınız gaz vanasını, tesisat ve cihazlar yetkili bir kişi tarafından kontrol edilmeden açmayın.
 3. Duvar, tavan ve kolonlarda yeni çatlak olup olmadığına bakın.
 4. Dolapları dikkatle açın; içindekiler üzerinize düşebilir.
 5. Hasarı fotoğraflayın; sigorta (DASK) ve yardım başvuruları için gerekir.

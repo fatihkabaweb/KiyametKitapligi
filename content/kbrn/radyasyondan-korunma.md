@@ -53,7 +53,7 @@ Serpinti tozuna maruz kaldıysanız, içeri girer girmez:
 - Kapalı kaplardaki su ve ambalajlı gıdalar güvenlidir; ambalajın dışını silin.
 - Derin kuyu suyu genellikle serpintiden az etkilenir.
 - Açık havuz, gölet, yağmur suyu ve bahçe ürünlerini, yetkililer güvenli ilan edene kadar kullanmayın.
-- Serpinti bölgesindeki hayvanların sütünü ilk günlerde içmeyin; radyoaktif iyot süte hızla geçer.
+- Serpinti bölgesindeki hayvanların sütünü yetkililer güvenli ilan edene kadar içmeyin; radyoaktif iyot süte hızla geçer ve haftalarca tehlikeli kalabilir.
 
 ## Radyasyon Dozu ve Etkileri
 
@@ -88,11 +88,11 @@ Dünya Sağlık Örgütü'nün önerdiği tek seferlik dozlar (yetkililer başka
 | 1 ay – 3 yaş | 32 mg |
 | Yenidoğan (1 aydan küçük) | 16 mg |
 
-- En etkili olduğu zaman, maruziyetten **hemen önce veya ilk birkaç saat içinde**dir.
+- En etkili olduğu zaman, maruziyetten **hemen önce veya ilk birkaç saat içinde**dir. Maruziyetten 24 saatten fazla sonra alınması önerilmez; yarardan çok zarar verebilir.
 - Bebekler, çocuklar, hamileler ve emziren anneler en çok fayda görenlerdir ve önceliklidir.
 - 40 yaş üstündeki yetişkinlerde fayda daha düşüktür; yetkililerin talimatına uyun.
 - Tiroit hastalığı veya iyot alerjisi olanlar mümkünse doktora danışmalıdır.
-- Tekrar doz yalnızca yetkililer söylerse alınır.
+- Tekrar doz yalnızca yetkililer söylerse alınır. Yenidoğanlara, hamilelere ve emziren annelere tekrar doz verilmez.
 
 ## Akılda Tutun
 

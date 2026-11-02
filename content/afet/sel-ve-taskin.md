@@ -9,7 +9,7 @@ Seller dakikalar içinde gelişebilir; kuru bir dere yatağı, şiddetli yağı�
 
 > [!TEHLIKE] Akan suya girmeyin
 > - Hareket eden **15 cm** su bir yetişkini devirebilir.
-> - **30 cm** su küçük bir otomobili yüzdürebilir.
+> - **30 cm** akan su çoğu otomobili sürükleyebilir.
 > - **60 cm** su, büyük araçlar dahil çoğu aracı sürükler.
 > Suyun derinliğini ve altında ne olduğunu (çukur, açık rögar, kopmuş yol) göremezsiniz. **Geri dönün, başka yol bulun.**
 

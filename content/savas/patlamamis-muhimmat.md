@@ -12,20 +12,20 @@ acil: evet
 
 1. **Dokunmayın.** Elle almayın, tekmelemeyin, taş atmayın, üzerine basmayın, yerinden oynatmayın. Bazı mühimmat en küçük titreşimde patlar.
 2. **Geldiğiniz yoldan geri çekilin.** Tam olarak bastığınız yerlere basarak, yavaşça geri dönün.
-3. **Uzaklaşın ve araya engel koyun.** Küçük cisimler için bile en az 100 metre, büyük bomba ve roketler için birkaç yüz metre uzaklaşın; mümkünse araya sağlam bir duvar veya tümsek girsin.
+3. **Uzaklaşın ve araya engel koyun.** Küçük cisimler için bile en az 100 metre, uçak bombası ve roket gibi büyük cisimler için en az 500 metre, mümkünse daha fazla uzaklaşın; mümkünse araya sağlam bir duvar veya tümsek girsin.
 4. **İşaretleyin.** Güvenli mesafeden, yolun kenarına taş yığını, bez bağlanmış dal veya çubukla uyarı işareti bırakın. İşareti cismin üzerine koymaya çalışmayın.
 5. **Bildirin.** 112'yi, polisi, jandarmayı, askeri birimleri veya mayın temizleme ekiplerini arayın. Yeri mümkün olduğunca tarif edin.
 6. **Başkalarını uyarın.** Özellikle çocukları ve hayvanlarıyla gezen çobanları.
 
 > [!TEHLIKE]
-> Şüpheli bir cismin yakınında (yaklaşık 50 metre içinde) **telsiz veya cep telefonu kullanmayın**. Bazı patlayıcılar radyo sinyaliyle tetiklenebilir. Uzaklaştıktan sonra arayın.
+> Şüpheli bir cismin yakınında **telsiz veya cep telefonu kullanmayın**. Bazı patlayıcılar radyo sinyaliyle tetiklenebilir. Önce en az 100 metre uzaklaşın, sonra arayın.
 
 ## Tehlikeli Cisimler
 
 | Tür | Görünüşü | Not |
 |---|---|---|
-| Kara mayını | Toprağa gömülü veya yüzeyde, yuvarlak, kutu veya silindir şeklinde | Plastik olanlar metal dedektörle bulunamaz |
-| Misket (alt) mühimmat | Top, kutu, silindir; bazen şeritli veya küçük paraşütlü | Çok sayıda ve geniş alana dağılır; büyük kısmı patlamadan kalabilir |
+| Kara mayını | Toprağa gömülü veya yüzeyde, yuvarlak, kutu veya silindir şeklinde | Plastik olanlar metal dedektörle çok zor bulunur |
+| Misket (alt) mühimmat | Top, kutu, silindir; bazen şeritli veya küçük paraşütlü | Çok sayıda ve geniş alana dağılır; önemli bir kısmı patlamadan kalabilir |
 | Top ve havan mermisi | Kanatçıklı veya sivri uçlu metal gövde | Yere gömülü veya yarı gömülü olabilir |
 | Roket ve füze parçaları | Uzun silindir, kanatçıklar | Yakıtı ve patlayıcısı hâlâ tehlikeli olabilir |
 | El bombası | Avuç büyüklüğünde, mandallı | Pimi çekilmemiş görünse bile dokunmayın |
