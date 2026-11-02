@@ -33,7 +33,7 @@ Büyük afetlerde ve çatışmalarda resmi yardım ekiplerinin herkese ulaşmas�
 **Barınak ve ısı.** Gece yaklaşıyorsa karanlık basmadan sığınacağınız yeri hazırlayın. Kışın tek bir odada toplanın, pencereleri örtün: [[evde-isinma]].
 
 > [!TEHLIKE] Karbonmonoksit
-> Mangal, soba, jeneratör, gazlı ısıtıcı veya kamp ocağını **asla** kapalı alanda, çadırda veya araç içinde yakmayın. Her yıl en çok can kaybı bu hatadan olur: [[karbonmonoksit]].
+> Mangal, jeneratör veya kamp ocağını **asla** kapalı alanda, çadırda veya araç içinde yakmayın. Sobayı yalnızca sağlam bir bacayla, tüplü ısıtıcıyı yalnızca iç mekân için üretilmiş ve oksijen azalma sensörlü bir modelse kullanın; ikisini de uyurken yanık bırakmayın. Her yıl en çok can kaybı bu hatadan olur: [[karbonmonoksit]], [[evde-isinma]].
 
 **Sanitasyon.** Tuvaletler çalışmıyorsa kova tuvalet hazırlayın; atıkları yaşam alanından ve su kaynaklarından uzak tutun: [[tuvalet-ve-atik]].
 

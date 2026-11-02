@@ -75,7 +75,7 @@ Soluk, soğuk, terli deri + hızlı zayıf nabız: **sırtüstü yatır,** yaral
 
 ## Su
 
-- **Kaynat:** fokurdadıktan sonra **1 dakika** (2000 m üstünde 3 dakika).
+- **Kaynat:** fokurdadıktan sonra **1 dakika** (1000 m üstünde 3 dakika).
 - **Çamaşır suyu** (sade, parfümsüz, %4–6): litre başına **2 damla,** oranı bilinmiyorsa **4 damla.** **30 dakika** bekle, hafif klor kokmalı.
 - Önce berraklaştır, sonra dezenfekte et.
 - **ORS:** 1 litre temiz su + **6 silme çay kaşığı şeker** + **yarım silme çay kaşığı tuz.**
