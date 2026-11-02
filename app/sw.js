@@ -4,7 +4,7 @@
  * BUILD bölümü `node tools/build.mjs` tarafından otomatik güncellenir.
  */
 /* BUILD:START */
-const VERSION = '67aba5e0d8d2';
+const VERSION = '11bb76835db5';
 const ASSETS = [
   "./",
   "css/app.css",
