@@ -57,7 +57,8 @@ Sabun, yağın güçlü bir bazla (kostik veya kül suyu) tepkimeye girmesiyle o
 > - Çocukları ve hayvanları uzak tutun; iyi havalandırılmış bir yerde, tercihen açık havada çalışın.
 > - **Alüminyum, çinko veya kalay** kaplar kullanmayın; kostik bunlarla tepkimeye girip yanıcı gaz çıkarır. Paslanmaz çelik, emaye veya kalın plastik kap kullanın.
 > - Her zaman **kostiği suya** ekleyin, suyu kostiğe değil.
-> - Deriye sıçrarsa bol akan suyla **en az 15 dakika** yıkayın. Göze sıçrarsa göz kapağını açık tutarak 15–20 dakika yıkayın ve sağlık yardımı arayın.
+> - Deriye sıçrarsa bulaşmış giysiyi çıkarıp bol akan suyla **en az 20 dakika** yıkayın; sirke gibi bir şeyle nötralize etmeye çalışmayın. Göze sıçrarsa göz kapağını açık tutarak **en az 20 dakika,** mümkünse sağlık yardımına ulaşana kadar yıkamaya devam edin; kostik göz yanığı acildir.
+> - Sabun yapımında kullandığınız kapları ve kaşıkları bir daha yemek için kullanmayın; kostiği etiketli, kapalı bir kapta ve çocukların ulaşamayacağı yerde saklayın.
 
 ### Yöntem 1: Artık sabunlardan yeni sabun (en güvenli)
 

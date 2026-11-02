@@ -42,7 +42,7 @@ Yara ve ilk yardım malzemeleri için: [[ilk-yardim-cantasi]].
 | İlaç | Dikkat edilecek durum |
 |---|---|
 | Aspirin | **16 yaş altına verilmez** (Reye sendromu). Kanama riskini artırır; mide ülseri olanlar kullanmamalı. |
-| İbuprofen ve benzerleri | Mideyi tahriş eder; tok karnına alın. Sıvı kaybı olan kişide böbreğe zarar verebilir. Mide ülseri, böbrek hastalığı ve gebeliğin son dönemlerinde kullanılmaz. |
+| İbuprofen ve benzerleri | Mideyi tahriş eder; tok karnına alın. Sıvı kaybı olan kişide böbreğe zarar verebilir. Mide ülseri, böbrek hastalığı ve gebelikte (özellikle 20. haftadan sonra) kullanılmaz. |
 | Parasetamol | Karaciğer hastalığı ve düzenli alkol kullanımında dikkat. Günlük sınırı aşmayın. |
 | Antihistaminikler | Bazıları ciddi uyku hali yapar; araç ve alet kullanırken dikkat. |
 | İshal kesiciler | Küçük çocuklara verilmez; kanlı ishalde ve ateşte kullanılmaz. |

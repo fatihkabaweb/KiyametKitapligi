@@ -67,7 +67,7 @@ Her sulu dışkılamadan sonra:
 2. Sonra çok yavaş verin: her **1–2 dakikada bir çay kaşığı** veya küçük bir yudum.
 3. Kusma azaldıkça miktarı yavaş yavaş artırın.
 
-Kusma çoğu zaman sıvı verildikçe azalır. Ağır sıvı kaybı olan veya hiç içemeyen kişiye damardan sıvı gerekir; sağlık personeline ulaştırmaya çalışın.
+Kusma çoğu zaman sıvı verildikçe azalır. Ağır sıvı kaybı olan veya hiç içemeyen kişiye damardan sıvı gerekir; sağlık personeline ulaştırmaya çalışın. Yolda ve beklerken kişi içebiliyorsa ORS'yi sık sık, küçük yudumlarla vermeyi sürdürün.
 
 ## Beslenmeye Devam Edin
 
