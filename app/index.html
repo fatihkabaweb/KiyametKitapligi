@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Postapokaliptik.org</title>
+<meta name="description" content="Afet, savaş, salgın ve yalnız hayatta kalma koşulları için çevrim dışı çalışan, PDF olarak dışa aktarılabilen bilgi arşivi.">
+<meta name="theme-color" content="#151311">
+<meta name="color-scheme" content="dark light">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="css/app.css">
+<script>
+  /* Tema, ilk boyamadan önce uygulanır (yanıp sönmeyi önler). */
+  (function () {
+    try {
+      var s = JSON.parse(localStorage.getItem('kk1:settings') || '{}');
+      if (s.theme && s.theme !== 'otomatik') document.documentElement.setAttribute('data-theme', s.theme);
+      if (s.fontScale) document.documentElement.style.setProperty('--fs', s.fontScale);
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body>
+<a class="skip-link" href="#view">İçeriğe geç</a>
+<div id="app" class="app">
+  <header class="topbar" id="topbar">
+    <button class="icon-btn" id="back-btn" data-action="back" aria-label="Geri" hidden></button>
+    <a class="brand" href="#/" id="brand"><span class="brand-mark" aria-hidden="true"></span><span class="brand-name" id="brand-name"></span></a>
+    <div class="topbar-title" id="topbar-title"></div>
+    <div class="topbar-actions" id="topbar-actions"></div>
+  </header>
+  <nav class="tabbar" id="tabbar" aria-label="Ana gezinme"></nav>
+  <main id="view" class="view" tabindex="-1"></main>
+</div>
+<div id="print-root" aria-hidden="true"></div>
+<div id="overlay" class="overlay" hidden>
+  <div class="overlay-box" role="status" aria-live="polite">
+    <div class="spinner" aria-hidden="true"></div>
+    <p id="overlay-text">Hazırlanıyor…</p>
+  </div>
+</div>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<noscript><p style="padding:2rem">Bu uygulama JavaScript gerektirir. Lütfen tarayıcınızda JavaScript'i etkinleştirin.</p></noscript>
+<script src="js/config.js"></script>
+<script src="data/library.js"></script>
+<script src="js/markdown.js"></script>
+<script src="js/storage.js"></script>
+<script src="js/search.js"></script>
+<script src="js/pdf.js"></script>
+<script src="js/bundle.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
