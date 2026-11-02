@@ -64,8 +64,8 @@ Her cenaze için şu adımları izleyin:
 Soğutma imkanı yoksa ve yetkililere ulaşılamıyorsa cenazeler geçici olarak defnedilebilir. Geçici defin, ileride cenazenin çıkarılıp ailesine teslim edilebilmesini sağlamalıdır.
 
 1. **Yer seçimi:**
-   - İçme suyu kuyularından ve kaynaklarından en az **250 metre**, derelerden ve diğer su yollarından mümkün olduğunca uzakta
-   - Mezar tabanı yer altı suyunun en az **1,5–2 metre üzerinde** olmalı
+   - İçme suyu kuyularından ve kaynaklarından en az **250 metre** (60'tan fazla cenaze varsa en az **350 metre**), derelerden ve diğer su yollarından en az **30 metre**, mümkünse çok daha uzakta
+   - Mezar tabanı yer altı suyunun en az **2 metre üzerinde** olmalı; kazarken çukura su sızıyorsa başka, daha yüksek bir yer seçin
    - Yaşam alanlarından uzak, ancak kolay bulunabilecek bir yer
 2. Mezar derinliği yaklaşık **1,5 metre** olsun.
 3. Cenazeleri **tek sıra halinde, yan yana** ve aralarında yaklaşık **40 cm** boşluk bırakarak yerleştirin; asla üst üste koymayın.

@@ -48,8 +48,9 @@ Anneyi temiz bir çarşafın üzerine, sırtı yastıklarla desteklenmiş yarı 
 2. Islak havluyu alın, bebeği **annenin çıplak göğsüne, ten tene** yerleştirin. Bebeğin başını bere veya bezle örtün, ikisinin üzerini kuru bir battaniyeyle kapatın.
 3. Bebek ilk **1 dakika içinde** ağlamalı veya düzenli nefes almalıdır.
 4. Nefes almıyorsa: sırtını ve ayak tabanlarını ovun. Ağız veya burnu belirgin şekilde tıkalıysa temiz bir bezle silin.
-5. Hâlâ nefes almıyorsa: bebeği sırtüstü sert bir yüzeye yatırın, başını düz (ne öne ne arkaya bükülmüş) tutun, **ağzını ve burnunu birlikte** ağzınızla kapatıp göğsü hafifçe kaldıracak kadar **5 yavaş nefes** verin. Ardından [[temel-yasam-destegi]] makalesindeki bebek yöntemine geçin.
-6. Bebek nefes alıyorsa doğumdan sonraki **ilk 1 saat içinde emzirmeye** başlayın. Emzirme rahmin kasılmasına ve kanamanın azalmasına da yardım eder.
+5. Hâlâ nefes almıyorsa: bebeği sırtüstü sert bir yüzeye yatırın, başını düz (ne öne ne arkaya bükülmüş) tutun, **ağzını ve burnunu birlikte** ağzınızla kapatıp göğsü hafifçe kaldıracak kadar **5 yavaş nefes** (her biri 2–3 saniye) verin. Göğüs kalkmıyorsa baş pozisyonunu düzeltip 5 nefesi tekrarlayın.
+6. Göğüs kalkıyorsa, bebek kendi nefes alana kadar dakikada yaklaşık **30 nefes** (2 saniyede bir) vermeye devam edin; yenidoğanda en önemli müdahale nefes vermektir. 30 saniye etkili nefese rağmen hiçbir yaşam belirtisi yoksa (hareket yok, göğüste kalp atımı hissedilmiyor veya çok yavaş) göğüs basısı ekleyin: göğsü iki elinizle kavrayıp iki başparmakla göğsün üçte biri kadar bastırın, **3 bası : 1 nefes** oranında devam edin ([[temel-yasam-destegi]]).
+7. Bebek nefes alıyorsa doğumdan sonraki **ilk 1 saat içinde emzirmeye** başlayın. Emzirme rahmin kasılmasına ve kanamanın azalmasına da yardım eder.
 
 ## Göbek Bağı
 

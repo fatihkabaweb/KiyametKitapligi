@@ -26,7 +26,7 @@ Yanıklar, felaket koşullarında en sık görülen yaralanmalardandır: ateşte
 
 ## Adım 3: Örtün
 
-1. Soğutmadan sonra yanığı **streç film** (gıda ambalaj filmi) ile örtün. Filmi kol veya bacağın etrafına sıkıca **sarmayın;** şeritler halinde gevşekçe üzerine serin. Şişlik dolaşımı bozabilir.
+1. Soğutmadan sonra yanığı **streç film** (gıda ambalaj filmi) ile örtün. Filmi kol veya bacağın etrafına sıkıca **sarmayın;** şeritler halinde gevşekçe üzerine serin. Şişlik dolaşımı bozabilir. **Yüze streç film koymayın;** nefes almayı engelleyebilir. Yüz yanığını açık bırakın veya nemli temiz bezle gevşekçe örtün.
 2. El yanıklarında eli temiz bir **naylon poşete** koyabilirsiniz.
 3. Streç film yoksa yapışmayan steril bir örtü veya temiz, tüy bırakmayan bir bez kullanın.
 4. Pamuk veya tüylü bez **kullanmayın;** yanığa yapışır.
