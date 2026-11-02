@@ -1,5 +1,5 @@
 /*
- * Kıyamet Kitaplığı — küçük, bağımlılıksız Markdown ayrıştırıcısı.
+ * Postapokaliptik.org — küçük, bağımlılıksız Markdown ayrıştırıcısı.
  *
  * Desteklenenler:
  *   ## Başlıklar, paragraflar, **kalın**, *italik*, `kod`,

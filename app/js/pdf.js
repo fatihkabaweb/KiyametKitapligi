@@ -171,6 +171,12 @@
 
   /* ---------- Belge ---------- */
 
+  /** "Ad.org" biçimindeki adı, uzantısı vurgu renginde olacak şekilde böler. */
+  function brandRuns(name) {
+    const m = String(name).match(/^(.+?)(\.[a-z]{2,10})$/i);
+    return m ? [{ text: m[1] }, { text: m[2], color: COLORS.accent }] : String(name);
+  }
+
   function trDate(d) {
     try {
       return d.toLocaleDateString('tr-TR', { day: 'numeric', month: 'long', year: 'numeric' });
@@ -210,7 +216,7 @@
       content.push({
         stack: [
           { canvas: [{ type: 'rect', x: 0, y: 0, w: contentWidth, h: 6, color: COLORS.accent }] },
-          { text: appName.toLocaleUpperCase('tr'), fontSize: sizes.h1 * 1.5, bold: true, characterSpacing: 1.5, margin: [0, 28, 0, 6], color: COLORS.ink },
+          { text: brandRuns(appName), fontSize: sizes.h1 * 1.6, bold: true, margin: [0, 28, 0, 6], color: COLORS.ink },
           { text: opts.title || '', fontSize: sizes.h1 * 0.85, color: COLORS.accent, margin: [0, 0, 0, 4] },
           opts.subtitle ? { text: opts.subtitle, fontSize: sizes.base * 1.1, color: COLORS.dim, margin: [0, 0, 0, 18] } : { text: '' },
           { text: articles.length + ' makale  ·  ' + trDate(new Date()), fontSize: sizes.base, color: COLORS.dim, margin: [0, 0, 0, 30] },

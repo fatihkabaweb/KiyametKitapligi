@@ -116,12 +116,12 @@
 
     /* --- Yedekleme --- */
     exportAll: function () {
-      const data = { app: 'kiyamet-kitapligi', format: 1, exported: new Date().toISOString() };
+      const data = { app: 'postapokaliptik-org', format: 1, exported: new Date().toISOString() };
       KEYS.forEach(function (k) { data[k] = read(k, null); });
       return data;
     },
     importAll: function (data) {
-      if (!data || data.app !== 'kiyamet-kitapligi') throw new Error('Bu dosya bir kitaplık yedeği değil.');
+      if (!data || ['postapokaliptik-org', 'kiyamet-kitapligi'].indexOf(data.app) === -1) throw new Error('Bu dosya bir kitaplık yedeği değil.');
       KEYS.forEach(function (k) {
         if (data[k] == null) return;
         if (k === 'notes') {

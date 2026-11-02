@@ -191,7 +191,7 @@
     const checks = Store.checks();
     let html = '';
     if (opts.cover) {
-      html += '<section class="print-cover"><div class="print-cover-bar"></div><h1>' + esc(CFG.name) + '</h1>' +
+      html += '<section class="print-cover"><div class="print-cover-bar"></div><h1>' + brandHtml(CFG.name) + '</h1>' +
         '<p class="print-cover-title">' + esc(opts.title || '') + '</p>' +
         '<p class="print-cover-meta">' + list.length + ' makale · ' + esc(fmtDate(Date.now())) + '</p>' +
         '<div class="callout callout-tehlike"><div class="callout-title">Önemli</div><p>Bu bilgiler profesyonel yardımın yerini tutmaz. Yardıma ulaşabiliyorsanız önce ' + esc(CFG.emergencyNumber) + ' acil çağrı numarasını arayın.</p></div></section>';
@@ -260,6 +260,12 @@
     }
   }
 
+  /** Alan adı biçimindeki adı ("Ad.org") uzantısı vurgulanmış olarak yazar. */
+  function brandHtml(name) {
+    const m = String(name).match(/^(.+?)(\.[a-z]{2,10})$/i);
+    return m ? esc(m[1]) + '<span class="tld">' + esc(m[2]) + '</span>' : esc(name);
+  }
+
   /* ================= Kabuk (üst çubuk ve sekmeler) ================= */
 
   const TABS = [
@@ -271,7 +277,7 @@
   ];
 
   function renderShell() {
-    $('#brand-name').textContent = CFG.name;
+    $('#brand-name').innerHTML = brandHtml(CFG.name);
     $('#back-btn').innerHTML = icon('back');
     $('#tabbar').innerHTML = TABS.map(function (t) {
       return '<a class="tab ' + (t.cls || '') + '" href="' + t.href + '" data-tab="' + t.id + '">' + icon(t.icon) + '<span>' + esc(t.label) + '</span></a>';
@@ -344,7 +350,7 @@
     const recent = Store.recent().map(function (r) { return byId[r.id]; }).filter(Boolean).slice(0, 3);
     let html = '<section class="hero">' +
       '<div class="hero-mark" aria-hidden="true"></div>' +
-      '<h1 class="hero-title">' + esc(CFG.name) + '</h1>' +
+      '<h1 class="hero-title">' + brandHtml(CFG.name) + '</h1>' +
       '<p class="hero-tag">' + esc(CFG.tagline) + '</p>' +
       '<div class="hero-status">' + offlineStatusHtml() + '</div>' +
       '<a class="searchbox" href="#/ara">' + icon('search') + '<span>Kütüphanede ara… (ör. su arıtma, kanama, deprem)</span></a>' +
@@ -793,7 +799,7 @@
   function viewAbout() {
     setChrome({ tab: 'more', back: true, title: 'Hakkında' });
     view.innerHTML = '<article class="prose about">' +
-      '<h2>' + esc(CFG.name) + '</h2>' +
+      '<h2>' + brandHtml(CFG.name) + '</h2>' +
       '<p>' + esc(CFG.description) + '</p>' +
       '<p>Kitaplık bir kez açıldıktan sonra <strong>internet olmadan</strong> çalışır. Tüm makaleler, arama, PDF oluşturma ve yazdırma cihazınızın içinde gerçekleşir; hiçbir veri dışarı gönderilmez.</p>' +
       '<aside class="callout callout-tehlike"><div class="callout-title">Yasal uyarı</div>' +

@@ -1,5 +1,5 @@
 /* =========================================================
-   Kıyamet Kitaplığı — stil dosyası
+   Postapokaliptik.org — stil dosyası
    Temalar: otomatik, karanlik, aydinlik, kirmizi (gece), kontrast
    ========================================================= */
 
@@ -198,7 +198,7 @@ mark { background: var(--mark); color: inherit; border-radius: 3px; padding: 0 1
 }
 :root[data-theme="kirmizi"] .brand-mark, :root[data-theme="kirmizi"] .hero-mark { filter: grayscale(1) sepia(1) hue-rotate(-50deg) saturate(5); }
 .brand-name {
-  font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; font-size: 15px;
+  font-weight: 800; letter-spacing: 0.01em; font-size: 17px;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
 .topbar-title { flex: 1; min-width: 0; font-weight: 700; font-size: 17px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
@@ -255,9 +255,10 @@ mark { background: var(--mark); color: inherit; border-radius: 3px; padding: 0 1
 .hero { text-align: left; padding: 8px 0 4px; }
 .hero-mark { width: 44px; height: 44px; border-radius: 11px; margin-bottom: 14px; }
 .hero-title {
-  margin: 0; font-size: clamp(28px, 7vw, 40px); line-height: 1.05; font-weight: 900;
-  letter-spacing: 0.03em; text-transform: uppercase;
+  margin: 0; font-size: clamp(30px, 8.4vw, 44px); line-height: 1.05; font-weight: 900;
+  letter-spacing: -0.01em; overflow-wrap: anywhere;
 }
+.tld { color: var(--accent); }
 .hero-tag { margin: 6px 0 12px; color: var(--text-dim); font-size: 16px; }
 .hero-status { margin-bottom: 16px; }
 
@@ -674,7 +675,7 @@ select {
 
   .print-cover { min-height: 230mm; display: flex; flex-direction: column; justify-content: center; }
   .print-cover-bar { height: 6mm; background: var(--accent); -webkit-print-color-adjust: exact; print-color-adjust: exact; margin-bottom: 10mm; }
-  .print-cover h1 { font-size: 3em !important; text-transform: uppercase; letter-spacing: 0.04em; }
+  .print-cover h1 { font-size: 3em !important; letter-spacing: -0.01em; }
   .print-cover-title { font-size: 1.6em; color: var(--accent); margin: 0.2em 0 !important; }
   .print-cover-meta { color: #555; margin-bottom: 12mm !important; }
   .print-toc { break-before: page; page-break-before: always; }

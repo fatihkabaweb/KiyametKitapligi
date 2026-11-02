@@ -1,6 +1,6 @@
 # İçerik Yazım Rehberi
 
-Kıyamet Kitaplığı'nın tüm bilgisi bu klasördeki Markdown (`.md`) dosyalarındadır. Her klasör bir kategoridir (`kategoriler.json` içinde tanımlı), her dosya bir makaledir. Dosya adı makalenin kalıcı kimliğidir: `content/su/su-aritma.md` dosyasının kimliği `su-aritma` olur.
+Postapokaliptik.org'un tüm bilgisi bu klasördeki Markdown (`.md`) dosyalarındadır. Her klasör bir kategoridir (`kategoriler.json` içinde tanımlı), her dosya bir makaledir. Dosya adı makalenin kalıcı kimliğidir: `content/su/su-aritma.md` dosyasının kimliği `su-aritma` olur.
 
 Yeni makale ekledikten veya bir makaleyi değiştirdikten sonra:
 

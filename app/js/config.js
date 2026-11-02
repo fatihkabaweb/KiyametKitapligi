@@ -8,8 +8,8 @@
   else root.KK_CONFIG = factory();
 })(typeof self !== 'undefined' ? self : this, function () {
   return {
-    name: 'Kıyamet Kitaplığı',
-    shortName: 'Kıyamet',
+    name: 'Postapokaliptik.org',
+    shortName: 'Postapokaliptik',
     tagline: 'İnternetsiz hayatta kalma kütüphanesi',
     description: 'Afet, savaş, salgın ve yalnız hayatta kalma koşulları için çevrim dışı çalışan, PDF olarak dışa aktarılabilen bilgi arşivi.',
     themeColor: '#151311',

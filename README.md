@@ -1,4 +1,4 @@
-# Kıyamet Kitaplığı
+# Postapokaliptik.org
 
 **İnternet yokken de çalışan hayatta kalma kütüphanesi.** Afet, savaş, salgın, uzun süreli elektrik kesintisi ve yalnız hayatta kalma koşulları için hazırlanmış, telefona veya bilgisayara kurulabilen, içeriği **PDF olarak indirilebilen** ve **yazdırılabilen** bir bilgi arşivi.
 
@@ -10,7 +10,7 @@
 - **Tamamen çevrim dışı:** Bir kez açıldıktan sonra her şey cihazda saklanır. Arama, PDF oluşturma ve yazdırma internetsiz çalışır.
 - **ACİL ekranı:** Kalp masajı, kanama, boğulma, deprem, hava saldırısı, radyasyon gibi hayat kurtaran makalelere tek dokunuşla erişim; tek tuşla 112.
 - **PDF ve yazdırma:** Tek makaleyi, bir kategoriyi, kaydettiklerinizi veya kitaplığın tamamını kapak sayfası ve içindekiler ile birlikte PDF'e dönüştürün ya da doğrudan yazdırın. A4 veya A5 (cep boyu), üç yazı boyutu.
-- **Tek dosya paylaşımı:** Uygulamanın tamamı (~2,7 MB) tek bir `.html` dosyası olarak indirilebilir. Bu dosya USB, Bluetooth veya mesajla başkalarına verilir ve herhangi bir tarayıcıda kurulum gerektirmeden, internetsiz açılır. Tek dosya sürümü de kendini kopyalayabilir; böylece kitaplık elden ele çoğalır.
+- **Tek dosya paylaşımı:** Uygulamanın tamamı (yaklaşık 3 MB) tek bir `.html` dosyası olarak indirilebilir. Bu dosya USB, Bluetooth veya mesajla başkalarına verilir ve herhangi bir tarayıcıda kurulum gerektirmeden, internetsiz açılır. Tek dosya sürümü de kendini kopyalayabilir; böylece kitaplık elden ele çoğalır.
 - **İşaretlenebilir kontrol listeleri:** Acil durum çantası, ev stoku, ilk yardım çantası vb.
 - **Not defteri:** Envanter, ilaç listesi, buluşma noktaları, günlük. Notlar yalnızca cihazda saklanır ve PDF'e eklenebilir.
 - **Kaydedilenler:** Kendi el kitabınızı oluşturup tek seferde PDF olarak indirin.
@@ -31,7 +31,7 @@ Depo GitHub Pages ile yayınlandığında uygulama `https://<kullanıcı-adı>.g
 
 ### 2. Tek dosya sürümü
 
-`kiyamet-kitapligi.html` dosyasını indirin (sitede veya uygulama içinde *Menü > PDF / Yazdır / Paylaş > Tek dosya indir*). Dosyayı çift tıklayarak veya telefonda bir tarayıcıyla açın. Hiçbir kurulum gerekmez.
+`postapokaliptik-org.html` dosyasını indirin (sitede veya uygulama içinde *Menü > PDF / Yazdır / Paylaş > Tek dosya indir*). Dosyayı çift tıklayarak veya telefonda bir tarayıcıyla açın. Hiçbir kurulum gerekmez.
 
 ### 3. Kâğıt kopya
 
