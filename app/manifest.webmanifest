@@ -1,0 +1,43 @@
+{
+  "name": "Kıyamet Kitaplığı",
+  "short_name": "Kıyamet",
+  "description": "Afet, savaş, salgın ve yalnız hayatta kalma koşulları için çevrim dışı çalışan, PDF olarak dışa aktarılabilen bilgi arşivi.",
+  "lang": "tr",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#151311",
+  "theme_color": "#151311",
+  "categories": [
+    "books",
+    "education",
+    "health",
+    "reference"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

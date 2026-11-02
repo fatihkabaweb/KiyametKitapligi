@@ -1,0 +1,21 @@
+[
+  { "id": "acil", "ad": "Acil Durum: İlk Adımlar", "ikon": "🚨", "aciklama": "Felaket anında öncelikler, ilk 72 saat ve doğru kararlar." },
+  { "id": "hazirlik", "ad": "Hazırlık ve Planlama", "ikon": "🎒", "aciklama": "Acil durum çantası, ev stoku, aile planı ve önemli belgeler." },
+  { "id": "ilk-yardim", "ad": "İlk Yardım", "ikon": "⛑️", "aciklama": "Temel yaşam desteği, kanama, yanık, kırık ve yaralanmalar." },
+  { "id": "saglik", "ad": "Sağlık ve Hastalıklar", "ikon": "💊", "aciklama": "Doktorsuz koşullarda hastalık, ilaç, doğum ve çocuk sağlığı." },
+  { "id": "su", "ad": "Su", "ikon": "💧", "aciklama": "Su bulma, arıtma, filtreleme ve depolama." },
+  { "id": "gida", "ad": "Gıda ve Beslenme", "ikon": "🍞", "aciklama": "Gıda stoku, saklama, elektriksiz pişirme ve doğadan yiyecek." },
+  { "id": "barinak", "ad": "Barınak, Ateş ve Isınma", "ikon": "🔥", "aciklama": "Ateş yakma, barınak kurma, ısınma ve soğuktan korunma." },
+  { "id": "yon", "ad": "Yön Bulma ve Yolculuk", "ikon": "🧭", "aciklama": "Harita, pusula, pusulasız yön bulma ve uzun yürüyüşler." },
+  { "id": "iletisim", "ad": "İletişim ve İşaretleşme", "ikon": "📻", "aciklama": "Radyo, telsiz, kurtarma işaretleri ve Mors alfabesi." },
+  { "id": "savas", "ad": "Savaş ve Çatışma Ortamı", "ikon": "🛡️", "aciklama": "Hava saldırısı, sığınak, mühimmat, kontrol noktaları ve tahliye." },
+  { "id": "kbrn", "ad": "Nükleer, Kimyasal, Biyolojik", "ikon": "☢️", "aciklama": "Radyasyon, serpinti, kimyasal saldırı ve korunma yöntemleri." },
+  { "id": "afet", "ad": "Deprem ve Doğal Afetler", "ikon": "🏚️", "aciklama": "Deprem, enkaz, sel, yangın ve aşırı hava olayları." },
+  { "id": "hijyen", "ad": "Hijyen ve Sanitasyon", "ikon": "🧼", "aciklama": "Temizlik, sabun, tuvalet, atık ve salgından korunma." },
+  { "id": "guvenlik", "ad": "Güvenlik ve Topluluk", "ikon": "🔒", "aciklama": "Durumsal farkındalık, ev güvenliği, güven ve takas." },
+  { "id": "psikoloji", "ad": "Ruh Sağlığı ve Yalnızlık", "ikon": "🧠", "aciklama": "Stres, panik, yalnızlık, yas ve moral." },
+  { "id": "beceri", "ad": "Beceriler ve Aletler", "ikon": "🔧", "aciklama": "Düğümler, alet bakımı, onarım ve hava tahmini." },
+  { "id": "enerji", "ad": "Enerji ve Aydınlatma", "ikon": "🔋", "aciklama": "Elektriksiz yaşam, güneş enerjisi, akü ve jeneratör." },
+  { "id": "tarim", "ad": "Tarım ve Uzun Vadeli Yaşam", "ikon": "🌱", "aciklama": "Sebze bahçesi, tohum, kompost ve küçük hayvancılık." },
+  { "id": "referans", "ad": "Hızlı Başvuru Tabloları", "ikon": "📋", "aciklama": "Yazdırılabilir kartlar, ölçüler, yaşamsal bulgular ve kodlar." }
+]
